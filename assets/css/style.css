@@ -1,0 +1,11 @@
+h1{
+    margin: 20px;
+    padding: auto;
+    color: crimson;
+    text-align: center;
+}
+p{
+    color: blue;
+    border: darkblue;
+    margin: 20px;
+}
